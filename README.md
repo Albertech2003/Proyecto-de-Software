@@ -10,3 +10,5 @@ OBJETIVOS:
 - Reducir la carga laboral de oficinas de la UNI 
 - Automatizar los trámites estudiantiles de la UNI
 - Permitir a las oficinas de la UNI dedicar más horas de trabajo a sus actividades específicas
+
+METODOLOGÍA DEL PROYECTO: 
