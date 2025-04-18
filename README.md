@@ -18,4 +18,4 @@ METODOLOGÍAS A USAR EN EL PROYECTO:
 
 - Desarrollo Incremental (para ir agregando funciones del chatbot por etapas).
 - Metodología Ágil (por ejemplo, Scrum, con sprints semanales, ideal para prototipos y entregas frecuentes).
-- Reutilización de componentes (al aprovechar APIs de OpenAI, frameworks de chatbot, servicios AWS preexistentes).
+- Reutilización de componentes (al aprovechar APIs de OpenAI, frameworks de chatbot, servicios AWS preexistentes).20
